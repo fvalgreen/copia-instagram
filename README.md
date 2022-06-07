@@ -6,4 +6,5 @@ Cópia da Landpage do Instagram seguindo as orientações do Desafio de Projeto 
 Após a finalização conforme o tutor passou no vídeo eu implementei algumas alterações que achei pertinentes como:
 
  - Alterações em algumas partes do texto para ficar algo mais parecido com o normal;
+ - Adição de alguns links onde devem ser links ao invés de apenas textos e estilização destes;
  - Mudanças na responsividade para que tanto em telas muito pequenas como em telas muitos grandes os elementos não fiquem amontoados.
